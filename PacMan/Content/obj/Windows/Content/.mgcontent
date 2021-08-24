@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Admin/Documents/GitHub/PacMan-Monogame/PacMan/Content/empty.png</File>
+    <File>C:/Users/Admin/Documents/GitHub/PacMan-Monogame/PacMan/Content/fruits.png</File>
+    <File>C:/Users/Admin/Documents/GitHub/PacMan-Monogame/PacMan/Content/fruits_narrow.png</File>
+    <File>C:/Users/Admin/Documents/GitHub/PacMan-Monogame/PacMan/Content/HUDfont.spritefont</File>
+    <File>C:/Users/Admin/Documents/GitHub/PacMan-Monogame/PacMan/Content/Pacman Waka Waka.mp3</File>
+    <File>C:/Users/Admin/Documents/GitHub/PacMan-Monogame/PacMan/Content/pacman.png</File>
+    <File>C:/Users/Admin/Documents/GitHub/PacMan-Monogame/PacMan/Content/pacman_32.png</File>
+    <File>C:/Users/Admin/Documents/GitHub/PacMan-Monogame/PacMan/Content/PacmanDies.png</File>
+    <File>C:/Users/Admin/Documents/GitHub/PacMan-Monogame/PacMan/Content/PacManStart.png</File>
+    <File>C:/Users/Admin/Documents/GitHub/PacMan-Monogame/PacMan/Content/pellet.png</File>
+    <File>C:/Users/Admin/Documents/GitHub/PacMan-Monogame/PacMan/Content/pellet_small.png</File>
+    <File>C:/Users/Admin/Documents/GitHub/PacMan-Monogame/PacMan/Content/pLife.png</File>
+    <File>C:/Users/Admin/Documents/GitHub/PacMan-Monogame/PacMan/Content/powerUp.png</File>
+    <File>C:/Users/Admin/Documents/GitHub/PacMan-Monogame/PacMan/Content/SFX_Pacman/Pacman Dies.mp3</File>
+    <File>C:/Users/Admin/Documents/GitHub/PacMan-Monogame/PacMan/Content/SFX_Pacman/Pacman Eating Cherry.mp3</File>
+    <File>C:/Users/Admin/Documents/GitHub/PacMan-Monogame/PacMan/Content/SFX_Pacman/Pacman Eating Ghost.mp3</File>
+    <File>C:/Users/Admin/Documents/GitHub/PacMan-Monogame/PacMan/Content/SFX_Pacman/Pacman Extra Live.mp3</File>
+    <File>C:/Users/Admin/Documents/GitHub/PacMan-Monogame/PacMan/Content/SFX_Pacman/Pacman Intermission.mp3</File>
+    <File>C:/Users/Admin/Documents/GitHub/PacMan-Monogame/PacMan/Content/SFX_Pacman/Pacman Opening Song.mp3</File>
+    <File>C:/Users/Admin/Documents/GitHub/PacMan-Monogame/PacMan/Content/SFX_Pacman/Pacman Siren.mp3</File>
+    <File>C:/Users/Admin/Documents/GitHub/PacMan-Monogame/PacMan/Content/SpriteSheet.png</File>
+    <File>C:/Users/Admin/Documents/GitHub/PacMan-Monogame/PacMan/Content/SpriteSheetCorrect.png</File>
+    <File>C:/Users/Admin/Documents/GitHub/PacMan-Monogame/PacMan/Content/Tileset.png</File>
+    <File>C:/Users/Admin/Documents/GitHub/PacMan-Monogame/PacMan/Content/Tileset2.png</File>
+    <File>C:/Users/Admin/Documents/GitHub/PacMan-Monogame/PacMan/Content/Tileset2green.png</File>
+    <File>C:/Users/Admin/Documents/GitHub/PacMan-Monogame/PacMan/Content/Tileset2pink.png</File>
+    <File>C:/Users/Admin/Documents/GitHub/PacMan-Monogame/PacMan/Content/Tileset2red.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

@@ -1,0 +1,118 @@
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\obj\x86\Debug\PacMan.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\obj\x86\Debug\PacMan.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\Content\empty.xnb
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\Content\Tileset.xnb
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\PacMan.exe
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\PacMan.pdb
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\obj\x86\Debug\PacMan.csproj.CopyComplete
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\obj\x86\Debug\PacMan.exe
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\obj\x86\Debug\PacMan.pdb
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\Content\Tileset2.xnb
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\Content\pacman.xnb
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\Content\pacman_32.xnb
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\Content\pellet.xnb
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\Content\SpriteSheet.xnb
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\Content\SpriteSheetCorrect.xnb
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\Content\HUDfont.xnb
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\Content\SFX_Pacman\Pacman Dies.wma
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\Content\SFX_Pacman\Pacman Dies.xnb
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\Content\SFX_Pacman\Pacman Eating Cherry.wma
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\Content\SFX_Pacman\Pacman Eating Cherry.xnb
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\Content\SFX_Pacman\Pacman Eating Ghost.wma
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\Content\SFX_Pacman\Pacman Eating Ghost.xnb
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\Content\SFX_Pacman\Pacman Extra Live.wma
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\Content\SFX_Pacman\Pacman Extra Live.xnb
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\Content\SFX_Pacman\Pacman Intermission.wma
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\Content\SFX_Pacman\Pacman Intermission.xnb
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\Content\SFX_Pacman\Pacman Opening Song.wma
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\Content\SFX_Pacman\Pacman Opening Song.xnb
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\Content\SFX_Pacman\Pacman Siren.wma
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\Content\SFX_Pacman\Pacman Siren.xnb
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\Content\SFX_Pacman\Pacman Waka Waka.wma
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\Content\SFX_Pacman\Pacman Waka Waka.xnb
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\Content\Pacman Waka Waka.xnb
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\Content\PacManStart.xnb
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\Content\PacmanDies.xnb
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\Content\Tileset2pink.xnb
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\Content\Tileset2green.xnb
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\Content\pLife.xnb
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\Content\Tileset2red.xnb
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\Content\pellet_small.xnb
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\Content\fruits.xnb
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\Content\fruits_narrow.xnb
+C:\Users\Admin\source\repos\Period 5, PacMan\PacMan\PacMan\bin\Windows\x86\Debug\Content\powerUp.xnb
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\Content\SFX_Pacman\Pacman Dies.wma
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\Content\SFX_Pacman\Pacman Eating Cherry.wma
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\Content\SFX_Pacman\Pacman Eating Ghost.wma
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\Content\SFX_Pacman\Pacman Extra Live.wma
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\Content\SFX_Pacman\Pacman Intermission.wma
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\Content\SFX_Pacman\Pacman Opening Song.wma
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\Content\SFX_Pacman\Pacman Siren.wma
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\Content\SFX_Pacman\Pacman Waka Waka.wma
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\Content\SFX_Pacman\Pacman Waka Waka.xnb
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\Content\SFX_Pacman\Pacman Dies.xnb
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\Content\SFX_Pacman\Pacman Eating Cherry.xnb
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\Content\SFX_Pacman\Pacman Eating Ghost.xnb
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\Content\SFX_Pacman\Pacman Extra Live.xnb
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\Content\SFX_Pacman\Pacman Intermission.xnb
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\Content\SFX_Pacman\Pacman Opening Song.xnb
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\Content\SFX_Pacman\Pacman Siren.xnb
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\Content\empty.xnb
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\Content\fruits.xnb
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\Content\fruits_narrow.xnb
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\Content\HUDfont.xnb
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\Content\Pacman Waka Waka.xnb
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\Content\pacman.xnb
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\Content\PacmanDies.xnb
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\Content\PacManStart.xnb
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\Content\pacman_32.xnb
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\Content\pellet.xnb
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\Content\pellet_small.xnb
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\Content\pLife.xnb
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\Content\powerUp.xnb
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\Content\SpriteSheet.xnb
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\Content\SpriteSheetCorrect.xnb
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\Content\Tileset.xnb
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\Content\Tileset2.xnb
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\Content\Tileset2green.xnb
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\Content\Tileset2pink.xnb
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\Content\Tileset2red.xnb
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\PacMan.exe
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\PacMan.pdb
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\obj\x86\Debug\PacMan.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\obj\x86\Debug\PacMan.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\obj\x86\Debug\PacMan.csproj.CopyComplete
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\obj\x86\Debug\PacMan.exe
+C:\Users\Admin\Documents\GitHub\PacMan-Monogame\PacMan\obj\x86\Debug\PacMan.pdb
